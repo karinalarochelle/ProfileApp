@@ -336,13 +336,13 @@
             "properties": {
                 "Picture": "karinagram-high-resolution-logo-transparent.png",
                 "resizeMode": "stretch",
-                "Height": 104,
-                "Width": 99,
+                "Height": 109,
+                "Width": 119,
                 "Visible": true,
-                "X": 245,
-                "Y": 30,
-                "RelativeX": 245,
-                "RelativeY": 30,
+                "X": 239,
+                "Y": 32,
+                "RelativeX": 239,
+                "RelativeY": 32,
                 "ResizeMode": "STRETCH",
                 "style": {
                     "marginTop": 0,
@@ -369,7 +369,7 @@
                 "capInsets": {},
                 "ParentId": "e274b000-ec31-4946-bba1-a3b7cdb7b009",
                 "position": "absolute",
-                "edgeOffsets": 30
+                "edgeOffsets": 32
             },
             "children": [],
             "id": "1044deb9-cbe6-4771-94aa-02a4db8be4d9",
