@@ -61,7 +61,7 @@
             "properties": {
                 "Visible": true,
                 "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
-                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "",
                 "TestMode": true,
                 "Width": 375,
                 "Height": 32,
