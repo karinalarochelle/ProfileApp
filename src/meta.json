@@ -206,7 +206,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": "ca-app-pub-1174552881356243/4829458101",
+                "admobAppIdAndroid": "ca-app-pub-1174552881356243~8221908202",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
@@ -252,7 +252,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": "ca-app-pub-1174552881356243/4829458101",
+                "admobAppIdAndroid": "ca-app-pub-1174552881356243~8221908202",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
