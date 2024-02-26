@@ -1,29 +1,28 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    "type": "object",
-    "properties": {
-      "CJJ7GOzLxRZhX3lfYvyTqs47PGz1": {
-        "type": "object",
-        "properties": {
-          "birthday": { "type": "string", "format": "date" },
-          "image": { "type": "string", "format": "uri" },
-          "name": { "type": "string" },
-          "phone_number": { "type": "string", "pattern": "^[0-9]{10}$" },
-          "rating": { "type": "integer", "minimum": 0, "maximum": 5 }
-        },
-        "required": ["birthday", "image", "name", "phone_number", "rating"]
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "BuZaEsFQqXUhvI3zh6dzAnNBq562": {
+      "type": "object",
+      "properties": {
+        "birthday": { "type": "string", "format": "date" },
+        "image": { "type": "string", "format": "uri" },
+        "name": { "type": "string" },
+        "phone_number": { "type": "string", "pattern": "^[0-9]{9}$" },
+        "rating": { "type": "integer", "minimum": 1, "maximum": 5 }
       },
-      "Zo6eYFlIXxOo1YC4SaaTHWh5Aux2": {
-        "type": "object",
-        "properties": {
-          "birthday": { "type": "string", "format": "date" },
-          "image": { "type": "string", "format": "uri" },
-          "name": { "type": "string" },
-          "phone_number": { "type": "string", "pattern": "^[0-9]{10}$" },
-          "rating": { "type": "integer", "minimum": 0, "maximum": 5 }
-        },
-        "required": ["birthday", "image", "name", "phone_number", "rating"]
-      }
+      "required": ["birthday", "image", "name", "phone_number", "rating"]
+    },
+    "beDf5JtbkEMWpkiA3vD52FayBSt1": {
+      "type": "object",
+      "properties": {
+        "birthday": { "type": "string", "format": "date" },
+        "image": { "type": "string", "format": "uri" },
+        "name": { "type": "string" },
+        "phone_number": { "type": "string", "pattern": "^[0-9]{9}$" },
+        "rating": { "type": "integer", "minimum": 1, "maximum": 5 }
+      },
+      "required": ["birthday", "image", "name", "phone_number", "rating"]
     }
   }
-  
+}
